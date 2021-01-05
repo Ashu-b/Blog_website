@@ -1,0 +1,43 @@
+<h1>Contact &#128071</h1>
+<p> <%= contactContent %> </p>
+
+<div class="row cont">
+  <div class="col-lg-6 yo">
+
+    <h2 style="bolder">Instagram</h2>
+    <h3>Connet on Instagram</h3>
+    <div class="ing">
+      <!-- <button type="button" class="btn btn-dark btn-lg download-button"> -->
+        <a class="insta" href="https://www.instagram.com/aka_ashubhardwaj/"><i class="fab fa-instagram fa-7x"></i></a>
+      <!-- </button> -->
+    </div>
+
+
+
+  </div>
+  <div class="col-lg-6"  ho>
+   <h2 style="boler">Facebook</h2>
+  <!-- <button type="button" class="btn btn-outline-light btn-lg download-button"> -->
+    <a class="facebook" href="https://www.facebook.com/akshit.bhardwaj.180"><i class="fab fa-facebook fa-7x "></i></a>
+
+  </div>
+
+  <div class="col-lg-6" >
+    <h2 style="bolder">Gmail</h2>
+  <!-- <button type="button" class="btn btn-outline-light btn-lg download-button"> -->
+      <a class="mail" href="mailto:akshitbhardwaj36@email.com"><i class="fas fa-envelope-open-text  fa-7x"></i></a>
+    <!-- Mail me</button> -->
+
+  </div>
+
+  <div class="col-lg-6" >
+    <h2 style="bolder">LinkedIn</h2>
+  <!-- <button type="button" class="btn btn-outline-light btn-lg download-button"> -->
+      <a class="LinkedIn" href="https://www.linkedin.com/in/akshit-bhardwaj-519221171/"><i class="fab fa-linkedin fa-7x"></i> "></a>
+    <!-- Mail me</button> -->
+
+  </div>
+
+</div>
+
+</div>

@@ -1,0 +1,84 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+h3{
+  padding-top: 20%;
+}
+
+.container-fluid {
+    /* padding-top: 70px;
+    padding-bottom: 70px; */
+
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    font-family: 'Lemonada', cursive;
+    font-weight: bolder;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+.footer-padding {
+	padding-bottom: 500px;
+}
+
+.footer {
+	position:absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 140px;
+	background-color: #1abc9c;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 24px;
+  color: #fff;
+}
+.cont{
+  margin-top: 200px;
+  margin-left: 10%;
+}
+.insta{
+  padding:0px 40% 65px;
+  margin-bottom: 20;
+}
+.facebook{
+  padding:0px 40% 65px;
+  margin-bottom: 20;
+}
+.mail{
+  padding:0px 40% 65px;
+  margin-bottom: 20;
+}
+.LinkedIn{
+  padding:0px 40% 65px;
+  margin-bottom: 20;
+}
+.home{
+  background-image: url("paper.gif");
+background-color: #cccccc;
+}
+@media (max-width:1028px) {
+  #title {
+    text-align: center;
+  }
+
+}
+/* .ho{text-align: left; padding:0 0;} */
+/* .ko{text-align: center;} */
+.ing{
+  padding-top: 50px;
+}
+.fb{  padding-top: 50px;}
+.email{  padding-top: 50px;}
+.linke{  padding-top: 50px;}
